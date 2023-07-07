@@ -1,0 +1,16 @@
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\bin\Debug\PointRobbery.dll
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\bin\Debug\PointRobbery.pdb
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\bin\Debug\Assembly-CSharp.dll
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\bin\Debug\Rocket.API.dll
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\bin\Debug\Rocket.Core.dll
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\bin\Debug\Rocket.Unturned.dll
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\bin\Debug\SDG.NetTransport.dll
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\bin\Debug\UnityEngine.dll
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\obj\Debug\PointRobbery.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\obj\Debug\PointRobbery.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\obj\Debug\PointRobbery.csproj.CopyComplete
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\obj\Debug\PointRobbery.dll
+C:\Users\Kamil\Desktop\PointRobbery\PointRobbery\obj\Debug\PointRobbery.pdb
